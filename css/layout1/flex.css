@@ -1,0 +1,38 @@
+.container {
+    margin: 0 auto;
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+body {
+    margin: 0 auto;
+    
+}
+
+.logo {
+    flex-basis: 20%;
+}
+
+#subNav {
+    flex-basis: 80%;
+}
+
+header,
+main,
+footer {
+    margin-top: 1rem;
+    flex-basis: 100%;
+}
+
+.image-container {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.image-box {
+    text-align: center;
+    width: calc((100% - 2rem) / 3);
+    line-height: 10rem;
+}

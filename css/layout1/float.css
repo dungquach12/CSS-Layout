@@ -1,0 +1,45 @@
+.container {
+    margin: 0 auto;
+    width: 80%;
+}
+
+body {
+    margin: 0 auto;
+}
+
+.logo {
+    float: left;
+    width: 20%;
+}
+
+header {
+    margin-top: 1rem;
+    clear: left;
+}
+
+.text {
+    margin-top: 1rem;
+}
+
+.image-container {
+    margin-top: 1rem;
+    overflow: auto;
+}
+
+.image-box {
+    overflow: hidden;
+    line-height: 10rem;
+    text-align: center;
+    float: left;
+    width: calc((100% - 2rem) / 3);
+}
+
+#box2 {
+    margin: 0 1rem;
+}
+
+footer {
+    margin-top: 1rem;
+    clear: left;
+}
+
