@@ -1,0 +1,38 @@
+main {
+    margin: 0 auto;
+}
+
+.nav,
+.banner {
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+}
+
+.banner {
+    line-height: 100px;
+}
+
+aside{
+    float: left;
+    width: 30%;
+    min-height: 300px;
+    line-height: 300px;
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+article{    
+    float: right;
+    width: calc(100% - 30% - 5rem);
+    position: relative;
+    overflow: hidden;
+    min-height: 300px;
+    line-height: 300px;
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+footer {
+    clear: both;
+}
