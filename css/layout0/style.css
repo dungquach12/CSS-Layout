@@ -1,0 +1,56 @@
+.container {
+    width: 40%;
+    margin: 0 auto;
+    background-color: white;
+    padding: 1rem;
+}
+
+header,
+aside,
+article,
+footer {
+    background-color: lightgray;
+    border: 1px solid lightgray;
+    padding: 1rem;
+}
+
+header {
+    font-size: 30px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.nav,
+.banner {
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+    background-color: lightgray;
+    border: 1px solid lightgray;
+    padding: 1rem;
+    margin: 0.5rem auto;
+}
+
+.banner {
+    line-height: 100px;
+}
+
+aside {
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+article {
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial;
+}

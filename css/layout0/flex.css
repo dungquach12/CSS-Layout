@@ -1,0 +1,49 @@
+.container{
+    width: 40%;
+    margin: 0 auto;
+}
+
+header {
+    font-size: 40px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.nav,
+.banner {
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+}
+
+.banner {
+    line-height: 100px;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+aside {
+    flex-basis: 30%;
+    min-height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0.5rem;
+}
+
+article {
+    flex-basis: 70%;
+    min-height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0.5rem;
+}
+
+footer {
+    margin-top: 1rem;
+}
