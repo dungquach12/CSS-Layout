@@ -1,0 +1,46 @@
+.container {
+    font-family: "Roboto", sans-serif;
+}
+
+.container {
+    background-color: #F2F2F2;
+    margin: 1rem;
+    padding: 0.5rem;
+}
+
+.logo,
+nav,
+header,
+.body-area,
+footer {
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.logo {
+    background-color: #C0C0C0;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+nav,
+main {
+    display: inline-block;
+}
+
+header {
+    background-color: #C0C0C0;
+    text-align: center;
+}
+
+.body-area {
+    background-color: #C0C0C0;
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+footer {
+    background-color: #C0C0C0;
+    text-align: center;
+}

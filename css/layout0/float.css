@@ -13,7 +13,7 @@ main {
     line-height: 100px;
 }
 
-aside{
+aside {
     float: left;
     width: 30%;
     min-height: 300px;
@@ -22,7 +22,7 @@ aside{
     margin-bottom: 1rem;
 }
 
-article{    
+article {
     float: right;
     width: calc(100% - 30% - 5rem);
     position: relative;

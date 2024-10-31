@@ -1,0 +1,22 @@
+nav {
+    float: left;
+    width: 30%;
+    height: 25rem;
+}
+
+main {
+    float: right;
+    width: calc(100% - 30% - 4rem);
+}
+
+header {
+    height: 5rem;
+}
+
+.body-area {
+    height: 17rem;
+}
+
+footer {
+    clear: both;
+}

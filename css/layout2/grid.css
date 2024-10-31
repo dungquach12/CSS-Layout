@@ -1,0 +1,10 @@
+.main-container {
+    height: 25rem;
+    display: grid;
+    grid-template-columns: 3fr 7fr;
+}
+
+main {
+    display: grid;
+    grid-template-rows: 3fr 7fr;
+}

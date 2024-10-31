@@ -1,0 +1,21 @@
+.body-container {
+    display: flex;
+    height: 25rem;
+}
+
+nav {
+    width: 30%;
+    margin: 0;
+}
+
+main {
+    width: calc(100% - 30% - 2.3rem);
+}
+
+header {
+    height: 5rem;
+}
+
+.body-area {
+    height: 15rem;
+}
